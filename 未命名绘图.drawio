@@ -48,6 +48,9 @@
         <mxCell id="BZYdGofCyvcKg6Jk9bH3-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="180" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BZYdGofCyvcKg6Jk9bH3-1" value="" style="shape=xor;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="70" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
