@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="4168" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3847" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1077,7 +1077,7 @@
         <mxCell id="cKJXrB1gcY8QQICEZJV5-75" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;strokeColor=#3399FF;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;" edge="1" parent="1" source="cKJXrB1gcY8QQICEZJV5-73" target="cKJXrB1gcY8QQICEZJV5-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cKJXrB1gcY8QQICEZJV5-73" value="手机号所属&lt;br&gt;1、托管平台企业名称；&lt;div&gt;2、托管平台企业 ID；&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="cKJXrB1gcY8QQICEZJV5-73" value="手机号所属&lt;br&gt;1、托管平台企业名称；&lt;div&gt;2、托管平台企业 ID；&lt;/div&gt;&lt;div&gt;3、手机号所属法人姓名；&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="-1030" y="3400.1" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cKJXrB1gcY8QQICEZJV5-80" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 1;strokeColor=#3399FF;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;" edge="1" parent="1" source="cKJXrB1gcY8QQICEZJV5-77" target="cKJXrB1gcY8QQICEZJV5-79">
