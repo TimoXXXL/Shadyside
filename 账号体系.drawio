@@ -990,8 +990,8 @@
         <mxCell id="cKJXrB1gcY8QQICEZJV5-45" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=1 1;strokeColor=#3399FF;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="cKJXrB1gcY8QQICEZJV5-20" target="cKJXrB1gcY8QQICEZJV5-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1140" y="3156" />
-              <mxPoint x="-1140" y="3760" />
+              <mxPoint x="-880" y="3156" />
+              <mxPoint x="-880" y="3760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1105,8 +1105,8 @@
         <mxCell id="cKJXrB1gcY8QQICEZJV5-86" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;strokeColor=#3399FF;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=classic;fillColor=#dae8fc;" edge="1" parent="1" source="cKJXrB1gcY8QQICEZJV5-77" target="cKJXrB1gcY8QQICEZJV5-82">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="3750" />
-              <mxPoint x="220" y="3980" />
+              <mxPoint x="300" y="3750" />
+              <mxPoint x="300" y="3980" />
               <mxPoint x="19" y="3980" />
             </Array>
           </mxGeometry>
@@ -1160,10 +1160,10 @@
         </mxCell>
         <mxCell id="cKJXrB1gcY8QQICEZJV5-99" value="以企业身份进入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];pointerEvents=1;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;" vertex="1" connectable="0" parent="cKJXrB1gcY8QQICEZJV5-95">
           <mxGeometry x="0.73" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cKJXrB1gcY8QQICEZJV5-88" value="系统创建&lt;div&gt;个人身份（ 成员）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="cKJXrB1gcY8QQICEZJV5-88" value="系统&lt;div&gt;在当前企业下增加成员&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="240" y="4180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cKJXrB1gcY8QQICEZJV5-93" value="&lt;span style=&quot;font-size: 12px; text-align: left;&quot;&gt;首页&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=10;fontColor=default;fillColor=default;" vertex="1" parent="1">
